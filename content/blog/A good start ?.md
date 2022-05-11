@@ -7,7 +7,7 @@ lastmod: 2022-05-01T09:19:42+01:00
 draft: false
 weight: 50
 images: ["say-hello-to-doks.png"]
-contributors: ["Henk Verlinde"]
+tags: ['github pages', 'jekyll']
 ---
 
 这是个好的开始？说实话我自己也不清楚，清楚的是自己一个想搭个博客，写点东西而已。
